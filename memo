@@ -1,0 +1,7 @@
+
+
+* archive-queue
+/srv/ftp.example.org/ftp/incoming
+に配置されたパッケージを登録する。
+
+
